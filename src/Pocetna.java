@@ -18,8 +18,6 @@ public class Pocetna {
 		.collect(Collectors.toList());
 		System.out.println(noviIminja.size());
 		
-		
-
 	}
 
 }
